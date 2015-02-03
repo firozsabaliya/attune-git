@@ -60,7 +60,9 @@ body { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; color:
 
 .navigation ul li.last { background:none;}
 
-.navigation ul li a { color:#FFFFFF; text-decoration:none;}
+.navigation ul li a { color:#FFFFFF; text-decoration:none;
+border:1px solid red;
+}
 
 .navigation ul li a:hover { color:#414141;}
 
